@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Bengaluru Lake Guardian",
+  "description": "An AI-powered chatbot to promote awareness and action for the conservation of Bengaluru's lakes. Get information on pollution prevention, volunteering, and more, in multiple languages.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
